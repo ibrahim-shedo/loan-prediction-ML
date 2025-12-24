@@ -97,3 +97,17 @@ These metrics help assess how well the model distinguishes between approved and 
 
 ---
 
+## 📌 Results & Insights
+
+- Credit history is the most influential feature in loan approval
+- Applicants with stable income and good credit history have higher approval chances
+- Logistic Regression provides good baseline performance and interpretability
+
+## 🔮 Future Improvements
+
+- Try advanced models (Random Forest, XGBoost)
+- Perform feature scaling
+- Handle class imbalance
+- Deploy model using Flask or FastAPI
+- Build a web-based loan prediction system
+
