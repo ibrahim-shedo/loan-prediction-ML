@@ -111,3 +111,8 @@ These metrics help assess how well the model distinguishes between approved and 
 - Deploy model using Flask or FastAPI
 - Build a web-based loan prediction system
 
+## 👤 Author
+
+**Ebrahim Shedoh**  
+AI Engineer & Data Scientist  
+Focused on building intelligent, data-driven solutions.
